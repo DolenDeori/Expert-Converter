@@ -2,3 +2,4 @@
 
 # Expert Converter.
 This is a project based on C language which help us to convert a number from one number system to another number system.
+For example it can convert Binary number to Decimal and Decimal to Binary or Octal to Binary or Octal to decimal etc.
